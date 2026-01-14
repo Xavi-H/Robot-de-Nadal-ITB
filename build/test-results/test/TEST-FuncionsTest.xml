@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FuncionsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-05T18:55:05.915Z" hostname="pop-os" time="0.052">
+  <properties/>
+  <testcase name="checkIfRobotArribaPortalGuanyaNoPerdVida()" classname="FuncionsTest" time="0.052"/>
+  <system-out><![CDATA[?[1;32mFELICITATS!!?[0m Has arribat al portal. Has guanyat el joc
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

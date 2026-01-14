@@ -1,0 +1,42 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/-robot-de-nadal/[root]/index.html
+$dokka.location:/ConsoleColorsKt///PointingToDeclaration/-robot-de-nadal/[root]/-console-colors-kt/index.html
+$dokka.location:/FuncionsKt///PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/index.html
+$dokka.location:/FuncionsKt/accelerar/#Robot/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/accelerar.html
+$dokka.location:/FuncionsKt/colocarCaselles/#kotlin.Int#kotlin.Int#Robot#kotlin.Array[kotlin.Array[Taulell]]#Taulell/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/colocar-caselles.html
+$dokka.location:/FuncionsKt/comprovacioMoviment/#Robot#kotlin.Array[kotlin.Array[Taulell]]#kotlin.Int#kotlin.Int/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/comprovacio-moviment.html
+$dokka.location:/FuncionsKt/escollirDificultat/#kotlin.String#kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/escollir-dificultat.html
+$dokka.location:/FuncionsKt/executarInstruccio/#kotlin.String?#kotlin.Int#kotlin.Array[kotlin.Array[Taulell]]#Robot/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/executar-instruccio.html
+$dokka.location:/FuncionsKt/frenar/#Robot/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/frenar.html
+$dokka.location:/FuncionsKt/jocTaulell/#kotlin.Int#Robot/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/joc-taulell.html
+$dokka.location:/FuncionsKt/menuInstruccions/#/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/menu-instruccions.html
+$dokka.location:/FuncionsKt/mostrarMenuDificultat/#/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/mostrar-menu-dificultat.html
+$dokka.location:/FuncionsKt/mostrarPosicio/#Robot#kotlin.Int/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/mostrar-posicio.html
+$dokka.location:/FuncionsKt/mostrarTaulell/#kotlin.Int#kotlin.Int#kotlin.Array[kotlin.Array[Taulell]]#Robot/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/mostrar-taulell.html
+$dokka.location:/FuncionsKt/mostrarVelocitat/#Robot/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/mostrar-velocitat.html
+$dokka.location:/FuncionsKt/reiniciarPosicio/#kotlin.Int#Robot/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/reiniciar-posicio.html
+$dokka.location:/FuncionsKt/validarInstruccio/#kotlin.String#kotlin.String/PointingToDeclaration/-robot-de-nadal/[root]/-funcions-kt/validar-instruccio.html
+$dokka.location:/MainKt///PointingToDeclaration/-robot-de-nadal/[root]/-main-kt/index.html
+$dokka.location:/MainKt/main/#/PointingToDeclaration/-robot-de-nadal/[root]/-main-kt/main.html
+$dokka.location:/Robot///PointingToDeclaration/-robot-de-nadal/[root]/-robot/index.html
+$dokka.location:/Robot/Robot/#kotlin.IntArray#kotlin.Int#kotlin.Int/PointingToDeclaration/-robot-de-nadal/[root]/-robot/-robot.html
+$dokka.location:/Robot/getPosicioRobot/#/PointingToDeclaration/-robot-de-nadal/[root]/-robot/get-posicio-robot.html
+$dokka.location:/Robot/getVelocitat/#/PointingToDeclaration/-robot-de-nadal/[root]/-robot/get-velocitat.html
+$dokka.location:/Robot/getVides/#/PointingToDeclaration/-robot-de-nadal/[root]/-robot/get-vides.html
+$dokka.location:/Robot/setPosicioRobot/#kotlin.IntArray/PointingToDeclaration/-robot-de-nadal/[root]/-robot/set-posicio-robot.html
+$dokka.location:/Robot/setVelocitat/#kotlin.Int/PointingToDeclaration/-robot-de-nadal/[root]/-robot/set-velocitat.html
+$dokka.location:/Robot/setVides/#kotlin.Int/PointingToDeclaration/-robot-de-nadal/[root]/-robot/set-vides.html
+$dokka.location:/Taulell.Dinamita///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-robot-de-nadal/[root]/-taulell/-dinamita/index.html
+$dokka.location:/Taulell.PareNoel///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-robot-de-nadal/[root]/-taulell/-pare-noel/index.html
+$dokka.location:/Taulell.PortalMagic///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-robot-de-nadal/[root]/-taulell/-portal-magic/index.html
+$dokka.location:/Taulell.Robot///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-robot-de-nadal/[root]/-taulell/-robot/index.html
+$dokka.location:/Taulell.Roques///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-robot-de-nadal/[root]/-taulell/-roques/index.html
+$dokka.location:/Taulell.Totxanes///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-robot-de-nadal/[root]/-taulell/-totxanes/index.html
+$dokka.location:/Taulell///PointingToDeclaration/-robot-de-nadal/[root]/-taulell/index.html
+$dokka.location:/Taulell/getCasella/#/PointingToDeclaration/-robot-de-nadal/[root]/-taulell/get-casella.html
+$dokka.location:/Taulell/getEntries/#/PointingToDeclaration/-robot-de-nadal/[root]/-taulell/get-entries.html
+$dokka.location:/Taulell/valueOf/#kotlin.String/PointingToDeclaration/-robot-de-nadal/[root]/-taulell/value-of.html
+$dokka.location:/Taulell/values/#/PointingToDeclaration/-robot-de-nadal/[root]/-taulell/values.html
+
+
