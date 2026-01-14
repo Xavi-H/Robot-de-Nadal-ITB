@@ -82,6 +82,12 @@ El robot pot:
 
 ---
 
+## ℹ️ Nota
+
+Aquest repositori és una còpia pública del projecte desenvolupat originalment en un entorn privat (GitHub Classroom) com a treball de classe a l'institut Tecnològic de Barcelona (ITB).
+
+---
+
 ## 👤 Autor
 
 - **Nom:** Xavi Hurtado Picón
