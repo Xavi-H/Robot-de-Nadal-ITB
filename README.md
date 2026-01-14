@@ -3,6 +3,8 @@
 ## 📌 Descripció del projecte
 
 Aquest projecte consisteix en un **joc de consola desenvolupat en Kotlin** on un robot es mou per un tauler bidimensional seguint les instruccions introduïdes per l'usuari. 
+No és un projecte comercial, sinó un **exercici d’aprenentatge.**
+
 El robot pot: 
   - desplaçar-se cap a: DALT, BAIX, DRETA i ESQUERRA
   - moure's segons una velocitat configurable per l'usuari
@@ -14,6 +16,7 @@ El robot pot:
 
 ## 🎯 Objectius del projecte
 
+Projecte acadèmic desenvolupat durant la meva formació per:
 - Practicar:
   - `Data class`
   - `ENUM`
